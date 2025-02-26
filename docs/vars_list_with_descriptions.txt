@@ -5,10 +5,8 @@ PHYSHLTH - Now thinking about your physical health, which includes physical illn
 MENTHLTH - Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?
 CHECKUP1 - About how long has it been since you last visited a doctor for a routine checkup?
 EXERANY2 - During the past month, other than your regular job, did you participate in any physical activities or exercises such as running, calisthenics, golf, gardening, or walking for exercise?
-TOLDHI3 - Ever Told Cholesterol Is High
-_RFHYPE6 - High Blood Pressure Calculated Variable
-SMOKE100 - Smoked at Least 100 Cigarettes
-_TOTINDA - Adults who reported doing physical activity or exercise during the past 30 days other than their regular job
+TOLDHI3 - (Ever Told) Cholesterol Is High
+BPHIGH6 - (Ever Told) Blood Pressure High
 CVDINFR4 - (Ever told) you had a heart attack, also called a myocardial infarction?
 CVDCRHD4 - (Ever told) (you had) angina or coronary heart disease?
 CVDSTRK3 - (Ever told) (you had) a stroke.
